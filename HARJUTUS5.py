@@ -1,6 +1,6 @@
-#tünis käandmaa
+#hiimonärep
 #25.10.22
-#Ul5 vmdgi
+#ylesane5
 
 #tärnid
 
